@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Adam Griffith 👋
 
-<!--
-**adamjgriffith/adamjgriffith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Software Engineer** who loves building robust and elegant solutions with **PHP** and **JavaScript**. Whether I'm crafting efficient backends or dynamic user interfaces, I’m always eager to learn new technologies and tackle exciting challenges.
 
-Here are some ideas to get you started:
+- 🌱 I’m an advocate for continuous learning and collaboration
+- 💡 I believe diverse, empowered teams drive innovation and lasting impact
+- 🤝 Let’s connect and create something great together!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 My Philosophy: Building Effective Engineering Teams
+
+Engineering teams are at the heart of every successful product-focused organization. Over the years, I’ve learned that building high-performing teams is about more than just code - it’s about people, trust, and growth.
